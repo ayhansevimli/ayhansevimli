@@ -10,21 +10,21 @@ ayhansevimli/ayhansevimli is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 
 --->
---------------------------------------------------------------------------------------------------------------------
-# Contributions
 
+<!---
+# Contributions
 ![snake gif](https://github.com/ayhansevimli/ayhansevimli/blob/output/github-contribution-grid-snake.gif)
+--->
 --------------------------------------------------------------------------------------------------------------------
 [![Ayhan SEVIMLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhansevimli)](https://github.com/ayhansevimli/github-readme-stats)
---------------------------------------------------------------------------------------------------------------------
+
 <!---
 --------------------------------------------------------------------------------------------------------------------
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayhansevimli&repo=github-readme-stats)](https://github.com/ayhansevimli/github-readme-stats)
 --------------------------------------------------------------------------------------------------------------------
 --->
---------------------------------------------------------------------------------------------------------------------
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhansevimli&layout=compact)](https://github.com/ayhansevimli/github-readme-stats)
---------------------------------------------------------------------------------------------------------------------
 
 <!---
 
