@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 --------------------------------------------------------------------------------------------------------------------
 <!---# Contributions
+--->
 
 ![snake gif](https://github.com/ayhansevimli/ayhansevimli/blob/output/github-contribution-grid-snake.gif)
-#--->
 --------------------------------------------------------------------------------------------------------------------
