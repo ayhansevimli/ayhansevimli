@@ -4,8 +4,12 @@
 - 🌱 I’m currently learning DevOps and Cloud Engineering.
 - 💞️ I’m looking to collaborate on ... (will be notified)
 - 📫 How to reach me ayhan.sevimli@sdk-it.com
-- ✔️ Linkedin profile [Linkedin](https://www.linkedin.com/in/ayhansevimli)
 - ⚡ Fun fact: Stock and Crypto Markets are ❤️.
+- ✔️ Linkedin [Linkedin](https://www.linkedin.com/in/ayhansevimli)
+- ✔️ Youtube [Youtube](https://www.youtube.com/UsefulITVideosTutorials)
+- ✔️ Twitter profile [Twitter](https://twitter.com/it_sdk)
+- ✔️ Facebook profile [Facebook](https://fb.me/sdkitservices.uk)
+- ✔️ Instagram profile [Instagram](https://instagram.com/sdkitservices)
 
 
 <!---
