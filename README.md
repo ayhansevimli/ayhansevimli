@@ -1,4 +1,4 @@
-- 👋 Hi everyone, I’m Ayhan SEVIMLI
+- 👋 Hi Everyone, I’m Ayhan SEVIMLI
 - 👀 I’m interested in Cloud Engineering, DevOps and some Coding
 - 🌱 I’m currently learning DevOps and Cloud Engineering.
 - 💞️ I’m looking to collaborate on ... (Stay Connected)
