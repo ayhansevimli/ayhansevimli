@@ -15,3 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 ![snake gif](https://github.com/ayhansevimli/ayhansevimli/blob/output/github-contribution-grid-snake.gif)
 --------------------------------------------------------------------------------------------------------------------
+[![Ayhan SEVIMLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhansevimli)](https://github.com/ayhansevimli/github-readme-stats)
+--------------------------------------------------------------------------------------------------------------------
