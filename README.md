@@ -1,8 +1,8 @@
 - 👋 Hi everyone, I’m Ayhan SEVIMLI
-- 👀 I’m interested in Cloud Engineering, DevOps and little bit Coding
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Cloud Engineering, DevOps and some Coding
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ayhan.sevimli@sdk-it.com
 
 <!---
 ayhansevimli/ayhansevimli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
