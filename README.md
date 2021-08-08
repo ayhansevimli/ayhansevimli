@@ -2,7 +2,7 @@
 - 👋 Hi Everyone, I’m Ayhan SEVIMLI
 - 👀 I’m interested in Cloud Engineering, DevOps and some Coding
 - 🌱 I’m currently learning DevOps and Cloud Engineering.
-- 💞️ I’m looking to collaborate on ... (Stay Connected)
+- 💞️ I’m looking to collaborate on ... (will be notified)
 - 📫 How to reach me ayhan.sevimli@sdk-it.com
 - ⚡ Fun fact: Stock and Crypto Markets are ❤️.
 
