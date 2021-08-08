@@ -18,10 +18,6 @@ You can click the Preview link to take a look at your changes.
 ### Contributions
 ![snake gif](https://github.com/ayhansevimli/ayhansevimli/blob/output/github-contribution-grid-snake.gif)
 
-<img src="https://raw.githubusercontent.com/ayhansevimli/ayhansevimli/output/github-contribution-grid-snake.svg" />
-
-<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
-
 --------------------------------------------------------------------------------------------------------------------
 [![Ayhan SEVIMLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhansevimli)](https://github.com/ayhansevimli/github-readme-stats)
 
