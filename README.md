@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 --------------------------------------------------------------------------------------------------------------------
 ![Ayhan SEVIMLI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhansevimli)
+
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayhansevimli)]
 
 <!---
@@ -28,7 +29,9 @@ You can click the Preview link to take a look at your changes.
 --------------------------------------------------------------------------------------------------------------------
 --->
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhansevimli&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhansevimli&layout=compact)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayhansevimli&layout=compact)](https://github.com/ayhansevimli/github-readme-stats)
 
 <!---
 
