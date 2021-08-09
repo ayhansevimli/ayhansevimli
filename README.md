@@ -5,12 +5,12 @@
 - 💞️ I’m looking to collaborate on ... (will be notified)
 - 📫 How to reach me ayhan.sevimli@sdk-it.com
 - ⚡ Fun fact: Stock and Crypto Markets are ❤️.
-- ✔️ Linkedin [Linkedin](https://www.linkedin.com/in/ayhansevimli)
-- ✔️ Docker Hub [Dockerhub](https://hub.docker.com/u/ayhans/)
-- ✔️ Youtube [Youtube](https://www.youtube.com/UsefulITVideosTutorials)
-- ✔️ Twitter profile [Twitter](https://twitter.com/it_sdk)
-- ✔️ Facebook profile [Facebook](https://fb.me/sdkitservices.uk)
-- ✔️ Instagram profile [Instagram](https://instagram.com/sdkitservices)
+- ✔️ [Linkedin](https://www.linkedin.com/in/ayhansevimli)
+- ✔️ [Dockerhub](https://hub.docker.com/u/ayhans/)
+- ✔️ [Youtube](https://www.youtube.com/UsefulITVideosTutorials)
+- ✔️ [Twitter](https://twitter.com/it_sdk)
+- ✔️ [Facebook](https://fb.me/sdkitservices.uk)
+- ✔️ [Instagram](https://instagram.com/sdkitservices)
 
 --------------------------------------------------------------------------------------------------------------------
 <!---
